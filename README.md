@@ -33,7 +33,7 @@
 
 ![](windbnb-desktop-modal.png)
 
-![Altered code to show guest count](windbnb-desktop-search.png)
+![](windbnb-desktop-search.png)
 
 ### Built With
 
