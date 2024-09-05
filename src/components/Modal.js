@@ -1,5 +1,5 @@
-const Modal = ({isOpen, children}) => {
-    if(!isOpen) return null;
+const Modal = ({ isOpen, children }) => {
+    if (!isOpen) return null;
 
     return (
         <div className="modal-height">
