@@ -25,19 +25,19 @@
 
 ## Overview
 
-![](windbnb-mobile.png)
+![Mobile view](screenshots/windbnb-mobile.png)
 
-![](windbnb-mobile-modal.png)
+![Mobile view with modal open](screenshots/windbnb-mobile-modal.png)
 
-![](windbnb-desktop.png)
+![Desktop view](screenshots/windbnb-desktop.png)
 
-![](windbnb-desktop-modal.png)
+![Desktop view with modal open](screenshots/windbnb-desktop-modal.png)
 
-![](windbnb-desktop-search.png "Altered code to show guest count")
+![Guest count of modal](screenshots/windbnb-desktop-search.png "Altered code to show guest count")
 
 ### Built With
 
-- [React](https://reactjs.org/)
+- [React](https://react.dev/)
 
 ## Features
 
@@ -57,7 +57,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Stack Overflow](https://stackoverflow.com/questions/54989513/react-prevent-scroll-when-modal-is-open) - prevent scroll
 - [Microsoft Forum](https://social.msdn.microsoft.com/Forums/en-US/d208e967-868c-4dde-8e3e-a549b3d2bdcd/problem-when-pressing-enter-key-in-a-textbox?forum=aspwebforms) - default button
 - [Stack Overflow](https://stackoverflow.com/questions/925334/how-is-the-default-submit-button-on-an-html-form-determined) - first button was triggered when pressing enter when input focused.  That caused my guests panel to display.  I had the guest section as a button.
-- [Stack Overflow](https://stackoverflow.com/questions/7060750/detect-the-enter-key-in-a-text-input-field) - detect enter key 
+- [Stack Overflow](https://stackoverflow.com/questions/7060750/detect-the-enter-key-in-a-text-input-field) - detect enter key
 - [Stack Overflow](https://stackoverflow.com/questions/895171/prevent-users-from-submitting-a-form-by-hitting-enter) - prevent users from submitting a form by hitting enter
 - [Stack Overflow](https://stackoverflow.com/questions/12692089/preventing-double-borders-in-css) - double borders
 - [Codepen](https://codepen.io/dcode-software/pen/oNeyjeR) - button group
