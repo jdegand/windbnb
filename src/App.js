@@ -121,19 +121,19 @@ export default function App() {
                 {locationToggle &&
                   <div className="location-suggestions">
                     <button type="button" name="Helsinki, Finland" onClick={handleSuggestion} tabIndex="0">
-                      <img src={marker} alt="" />
+                      <img src={marker} alt="" />&nbsp;
                       Helsinki, Finland
                     </button>
                     <button type="button" name="Turku, Finland" onClick={handleSuggestion} tabIndex="0">
-                      <img src={marker} alt="" />
+                      <img src={marker} alt="" />&nbsp;
                       Turku, Finland
                     </button>
                     <button type="button" name="Oulu, Finland" onClick={handleSuggestion} tabIndex="0">
-                      <img src={marker} alt="" />
+                      <img src={marker} alt="" />&nbsp;
                       Oulu, Finland
                     </button>
                     <button type="button" name="Vaasa, Finland" onClick={handleSuggestion} tabIndex="0">
-                      <img src={marker} alt="" />
+                      <img src={marker} alt="" />&nbsp;
                       Vaasa, Finland
                     </button>
                   </div>
